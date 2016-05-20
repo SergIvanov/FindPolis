@@ -1,0 +1,34 @@
+unit Main;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, DBGridEhGrouping, ToolCtrlsEh,
+  DBGridEhToolCtrls, DynVarsEh, EhLibVCL, GridsEh, DBAxisGridsEh, DBGridEh,
+  Vcl.ComCtrls,DM, Data.DB;
+
+type
+  TMainForm = class(TForm)
+    dbgrdh1: TDBGridEh;
+    pgc1: TPageControl;
+    ts1: TTabSheet;
+    ts2: TTabSheet;
+    ts3: TTabSheet;
+    ds1: TDataSource;
+    dbgrdh2: TDBGridEh;
+    ds2: TDataSource;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  MainForm: TMainForm;
+
+implementation
+
+{$R *.dfm}
+
+end.
