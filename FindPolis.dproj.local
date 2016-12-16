@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.461,C:\GitSoft\FindPolis\Main.pas=C:\GitSoft\FindPolis\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.461,C:\GitSoft\FindPolis\Main.dfm=C:\GitSoft\FindPolis\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.997,C:\GitSoft\FindPolis\FindPolis.dproj=C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\FindPolis.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.861,C:\GitSoft\FindPolis\Unit1.pas=C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.089,=C:\GitSoft\FindPolis\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.365,C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\FindPolis.dproj=C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.128,C:\GitSoft\FindPolis\DM.pas=C:\GitSoft\FindPolis\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.861,C:\GitSoft\FindPolis\Unit1.dfm=C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,C:\GitSoft\FindPolis\Unit1.pas=C:\GitSoft\FindPolis\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,C:\GitSoft\FindPolis\Unit1.pas=C:\GitSoft\FindPolis\DM.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.157,=C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.128,C:\GitSoft\FindPolis\DM.dfm=C:\GitSoft\FindPolis\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.861,C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\GitSoft\FindPolis\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\FindPolis.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\FindPolis.dproj=C:\GitSoft\FindPolis\FindPolis.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,C:\GitSoft\FindPolis\Unit1.dfm=C:\GitSoft\FindPolis\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.861,C:\Users\Ivanov_SI\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\GitSoft\FindPolis\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,C:\GitSoft\FindPolis\Unit1.dfm=C:\GitSoft\FindPolis\DM.dfm</Transaction>
   </Transactions>
 </BorlandProject>

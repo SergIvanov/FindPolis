@@ -21,13 +21,8 @@ object MainForm: TMainForm
     ActivePage = ts1
     Align = alClient
     TabOrder = 0
-    ExplicitTop = 0
-    ExplicitWidth = 635
-    ExplicitHeight = 299
     object ts1: TTabSheet
       Caption = #1054#1052#1057
-      ExplicitWidth = 627
-      ExplicitHeight = 271
       object dbgrdh1: TDBGridEh
         Left = 0
         Top = 0
@@ -43,12 +38,14 @@ object MainForm: TMainForm
         OnApplyFilter = dbgrdh1ApplyFilter
         Columns = <
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'SERIA'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'NUMBER'
@@ -57,6 +54,7 @@ object MainForm: TMainForm
             Width = 100
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'NUMBERA'
@@ -65,6 +63,7 @@ object MainForm: TMainForm
             Width = 100
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'FAMILY'
@@ -73,6 +72,7 @@ object MainForm: TMainForm
             Width = 150
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'NAME'
@@ -81,6 +81,7 @@ object MainForm: TMainForm
             Width = 150
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'FATHER'
@@ -89,150 +90,175 @@ object MainForm: TMainForm
             Width = 150
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'SEX'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'BIRTHDAY'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'SOCIUM'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'ILS'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'POSTIND'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'REPUBLIC'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'REGION'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'DISTRICT'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'CITY'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'STREET'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'HOUSE'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'COURP'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'FLAT'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'NUMCONTR'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'PLACE'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'SECTION'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'COMPANY'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'DISPANZER'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'GOR'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'DATEUP'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'SHCOMPANY'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'GIVE'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'TYPE_POLIS'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'MCOD'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'DATE_PRIK'
@@ -245,6 +271,8 @@ object MainForm: TMainForm
     object ts2: TTabSheet
       Caption = #1044#1052#1057
       ImageIndex = 1
+      ExplicitLeft = 0
+      ExplicitTop = 0
       ExplicitWidth = 627
       ExplicitHeight = 271
       object dbgrdh2: TDBGridEh
@@ -263,36 +291,42 @@ object MainForm: TMainForm
         OnApplyFilter = dbgrdh2ApplyFilter
         Columns = <
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'FAM'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'IM'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'OT'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'DR'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'SER'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'POLIS'
@@ -305,6 +339,8 @@ object MainForm: TMainForm
     object ts3: TTabSheet
       Caption = #1057#1054#1043#1040#1047
       ImageIndex = 2
+      ExplicitLeft = 0
+      ExplicitTop = 0
       ExplicitWidth = 627
       ExplicitHeight = 271
       object dbgrdh3: TDBGridEh
@@ -322,30 +358,35 @@ object MainForm: TMainForm
         OnApplyFilter = dbgrdh3ApplyFilter
         Columns = <
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'FAM'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'IM'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'OT'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'DR'
             Footers = <>
           end
           item
+            CellButtons = <>
             DynProps = <>
             EditButtons = <>
             FieldName = 'POLIS'
@@ -365,9 +406,6 @@ object MainForm: TMainForm
     Caption = 'btn1'
     TabOrder = 1
     OnClick = btn1Click
-    ExplicitLeft = 414
-    ExplicitTop = -22
-    ExplicitWidth = 75
   end
   object ds1: TDataSource
     DataSet = DataModule1.fdqryOMS
